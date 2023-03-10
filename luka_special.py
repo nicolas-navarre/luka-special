@@ -28,9 +28,8 @@ seasons = []
 # 1983 is first year with games
 # let's go back to 95 to be sure
 # maybe print out the year when it's done to a file. 
-START_YEAR = 2019
+START_YEAR = 1983
 END_YEAR = 2022 
-
 
 # seasons.append('41993')
 # seasons.append('51993')
@@ -41,16 +40,9 @@ for year in range(START_YEAR, END_YEAR):
     seasons.append('4'+str(year)) # playoffs
     seasons.append('5'+str(year)) # not sure but they exist
 
-problem_games = []
-
-
-
-# the_special = pd.DataFrame(columns=['Game', 'Type'])
-# the_special.to_excel('special_games.xlsx', index=False)
 the_special = pd.read_excel('special_games.xlsx')
 
-
-
+problem_games = []
 all_teams = teams.get_teams()
 for season_year in seasons: 
     
