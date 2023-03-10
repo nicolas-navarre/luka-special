@@ -10,6 +10,8 @@ Since I couldn’t find anything, I went and gathered the halftime box scores of
   
 ***Results*** 
 
+|||||
+|:-----------|:------------|:------------|:------------|
 | ***Player*** | ***Points*** | ***Opposing team points*** |  ***Source*** | 
 | Tracy McGrady | 37 | 32 | [2003 - Nuggets vs Magic](https://www.basketball-reference.com/boxscores/200303090ORL.html) 
 | Deron Williams | 33 | 33 | [2013 - Wizards vs Nets](https://www.basketball-reference.com/boxscores/201303080BRK.html) 
