@@ -29,9 +29,9 @@ What about players who’ve score the same amount of points as an entire team in
 |||||
 |:-----------|:------------|:------------|:------------|
 | ***Player*** | ***Points*** | ***Opposing team points*** |  ***Source*** | 
-| Kobe Bryant | 55 | 41 | [2006 - Raptors vs Lakers] (https://www.basketball-reference.com/boxscores/200601220LAL.html) 
-| Dwyane Wade | 29 | 27 | [2009 - Wizards vs Heat] (https://www.basketball-reference.com/boxscores/200911100MIA.html) 
-| Dirk Nowitzki | 24 | 24 | [2012 - Mavericks vs 76ers] (https://www.basketball-reference.com/boxscores/201202170PHI.html)
+| Kobe Bryant | 55 | 41 | [2006 - Raptors vs Lakers](https://www.basketball-reference.com/boxscores/200601220LAL.html) 
+| Dwyane Wade | 29 | 27 | [2009 - Wizards vs Heat](https://www.basketball-reference.com/boxscores/200911100MIA.html) 
+| Dirk Nowitzki | 24 | 24 | [2012 - Mavericks vs 76ers](https://www.basketball-reference.com/boxscores/201202170PHI.html)
 &nbsp;
 
 Again, only 3 times out of the ~ 50,000 games scanned. The Kobe Special has a pretty good ring to it for second half performances like these but I’ll let the masses decide on that.
