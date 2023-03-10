@@ -13,9 +13,9 @@ Since I couldn’t find anything, I went and gathered the halftime box scores of
 |||||
 |:-----------|:------------|:------------|:------------|
 | ***Player*** | ***Points*** | ***Opposing team points*** |  ***Source*** | 
-| Tracy McGrady | 37 | 32 | [2003 - Nuggets vs Magic] (https://www.basketball-reference.com/boxscores/200303090ORL.html) 
-| Deron Williams | 33 | 33 | [2013 - Wizards vs Nets] (https://www.basketball-reference.com/boxscores/201303080BRK.html) 
-| Luka Dončić | 27 | 27 | [2022 - Mavericks vs Suns] (https://www.basketball-reference.com/boxscores/202205150PHO.html)
+| Tracy McGrady | 37 | 32 | [2003 - Nuggets vs Magic](https://www.basketball-reference.com/boxscores/200303090ORL.html) 
+| Deron Williams | 33 | 33 | [2013 - Wizards vs Nets](https://www.basketball-reference.com/boxscores/201303080BRK.html) 
+| Luka Dončić | 27 | 27 | [2022 - Mavericks vs Suns](https://www.basketball-reference.com/boxscores/202205150PHO.html)
 &nbsp;
 
 Turns out it’s pretty damn rare. Only 3 games out of the 50,000 or so I checked. And only once has a player actually outscored another team by halftime (shout out to T-Mac). So not common at all, and had never been done in the playoffs before Luka and the Mavs dominant game 7. 
